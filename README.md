@@ -1,2 +1,2 @@
 # Cybersecurity-Labs
-My cybersecurity practice labs and notes
+Hands-on cybersecurity labs including Linux, networking, web security, and penetration testing practice.
