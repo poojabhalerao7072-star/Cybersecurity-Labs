@@ -101,7 +101,7 @@
 
 ---
 
-# Important Interview Questions
+# Some Important Differences of Commands I Learned
 
 ## 1. What is the difference between adduser and useradd?
 
