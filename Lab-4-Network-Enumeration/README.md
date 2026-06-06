@@ -64,7 +64,7 @@ telnet
 ```bash
 nc -nv scanme.nmap.org 80
 ```
-![HTTP Port Connection](screenshots/http-port-check.png)
+
 ---
 
 ### 2. Banner Grabbing
@@ -80,7 +80,7 @@ HEAD / HTTP/1.0
 ```
 
 Press Enter twice.
-![Banner Grabbing](screenshots/banner-grabbing.png)
+
 ---
 
 ### 3. Telnet Connection
@@ -88,7 +88,7 @@ Press Enter twice.
 ```bash
 telnet scanme.nmap.org 80
 ```
-![Telnet Connection](screenshots/telnet-connection.png)
+
 ---
 
 ### 4. Test HTTPS Port
@@ -96,7 +96,7 @@ telnet scanme.nmap.org 80
 ```bash
 nc -nv scanme.nmap.org 443
 ```
-![HTTPS Port Test](screenshots/https-port-test.png)
+
 ---
 
 ### 5. Port Enumeration (Scan Multiple Ports)
@@ -104,7 +104,7 @@ nc -nv scanme.nmap.org 443
 ```bash
 nc -zv scanme.nmap.org 80 443
 ```
-![Port Enumeration](screenshots/port-scan.png)
+
 ---
 
 ## Important Commands
