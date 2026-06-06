@@ -130,8 +130,6 @@ nc -zv scanme.nmap.org 80 443
 ### Telnet Connection
 ![Telnet Connection](screenshots/telnet-connection.png)
 
-### Port Enumeration
-![Port Enumeration](screenshots/port-enumeration.png)
 
 ---
 
